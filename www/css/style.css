@@ -1,0 +1,58 @@
+/*popup override*/
+.popup-container
+{
+  
+}
+
+.popup
+{
+  padding: 12px;
+  border-radius: 10px !important;
+}
+
+.popup-head
+{
+
+}
+
+.popup-title
+{
+    color: #575757;
+    font-size: 30px !important;
+    text-align: center;
+    font-weight: 600;
+    margin: 25px 0;
+    padding: 0;
+    line-height: 40px;
+}
+
+.popup-body
+{
+    color: #797979;
+    font-size: 16px;
+    font-weight: 300;
+    text-align: inherit;
+    float: none;
+    margin: 0;
+    padding: 0;
+    line-height: normal; 
+}
+
+.popup-buttons .button
+{
+    background-color: #5dc2f1;
+    color: white;
+    border: none;
+    box-shadow: none;
+    font-size: 14px;
+    font-weight: 500;
+    -webkit-border-radius: 4px;
+    border-radius: 5px !important;
+    margin: 26px 5px 0 5px;
+    cursor: pointer; 
+}
+
+.popup-buttons .button.activated
+{
+  background-color: #007aff;
+}
