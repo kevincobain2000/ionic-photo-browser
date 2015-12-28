@@ -2,7 +2,8 @@
 
 ![alt tag](animate.gif)
 
-http://codepen.io/kevincobain2000/pen/LpBKQM
+* Simple http://codepen.io/kevincobain2000/pen/LpBKQM
+* With captions http://codepen.io/kevincobain2000/pen/OMRYNv
 
 ## How TO
 
