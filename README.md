@@ -3,6 +3,7 @@
 ![alt tag](animate.gif)
 
 * Simple http://codepen.io/kevincobain2000/pen/LpBKQM
+* Multiple Tabs http://codepen.io/kevincobain2000/pen/vGYXvW
 * With captions http://codepen.io/kevincobain2000/pen/OMRYNv
 
 ## How TO
