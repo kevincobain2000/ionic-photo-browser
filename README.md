@@ -1,3 +1,8 @@
+### Performance?
+
+- https://play.google.com/store/apps/details?id=com.ionicframework.awall
+- https://itunes.apple.com/app/id1093390081
+
 ### DEMO (codepen)
 
 ![alt tag](animate.gif)
