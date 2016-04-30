@@ -3,7 +3,11 @@
 - https://play.google.com/store/apps/details?id=com.ionicframework.awall
 - https://itunes.apple.com/app/id1093390081
 
-### DEMO (codepen)
+### DEMO (app)
+
+![alt tag](demo.gif)
+
+### DEMO (plugin)
 
 ![alt tag](animate.gif)
 
