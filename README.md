@@ -7,6 +7,8 @@
 
 ![alt tag](demo.gif)
 
+![alt tag](demo_1.gif)
+
 ### DEMO (plugin)
 
 ![alt tag](animate.gif)
