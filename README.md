@@ -1,7 +1,7 @@
 ### Performance?
 
 - https://play.google.com/store/apps/details?id=com.ionicframework.awall
-- https://itunes.apple.com/app/id1093390081
+- https://itunes.apple.com/app/id1093390081 (sorry, app store is expensive)
 
 ### DEMO (app)
 
